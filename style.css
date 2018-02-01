@@ -1,9 +1,6 @@
-body
-{
-        background-color:yellow
-}
-
-{
-        font-family: "Georgia";
-        font-size:30px;
+body {
+        background-color: #1E90FF;
+        font-family: "Comic Sans MS";
+        font-size: 100px;
+        color: white;
 }
