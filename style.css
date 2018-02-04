@@ -1,6 +1,18 @@
 body {
-        background-color: #1E90FF;
-        font-family: "Comic Sans MS";
-        font-size: 100px;
+        background-color: #C3D7E4;
+        font-family: "Courier New";
         color: white;
 }
+h1{
+        font: 28px;
+}
+div{
+        text-align: center;  
+}
+p{
+        font: 20px;
+}
+
+/*
+body {...} from lines 3-8 -> rule
+*/
