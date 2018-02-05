@@ -1,17 +1,33 @@
 body {
         background-color: #C3D7E4;
         font-family: "Courier New";
-        color: white;
 }
 h1{
         font: 28px;
+        color: white;
+        text-align: center;
+}
+h2{
+        font: 24px;
+        color: white;
+        text-align: center;
+}
+h3{
+        font: 22px;
+        color: white;
+        text-align: center;
+}
+h4{
+        font: 20px;
+        color: black;
+        font-weight: bold;
 }
 div{
+        color: LightSlateGrey;
+        font: 20px;
         text-align: center;  
 }
-p{
-        font: 20px;
-}
+
 
 /*
 body {...} from lines 3-8 -> rule
