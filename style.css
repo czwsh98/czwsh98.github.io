@@ -23,7 +23,14 @@ h4{
         font-weight: bold;
         text-align: center;
 }
+#poemheader{
+        margin-top: 30%
+        font: 28px;
+        color: white;
+        text-align: center;      
+}
 #poem{
+        margin-top: 30%
         color: LightSlateGrey;
         font: 20px;
         text-align: center;  
